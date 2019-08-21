@@ -1,3 +1,6 @@
 openTSNE
+pynndescent
+
 fa2
+
 forcelayout
