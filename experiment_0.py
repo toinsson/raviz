@@ -63,6 +63,8 @@ def plot_inits_KL(tsne_inits_res_np):
     _=ax[2].set_title('KL divergence for last 750 steps\n EE=1, momentum=0.8')
 
 
+from fa2 import ForceAtlas2
+
 def compare_tsne_force_mnist_2k_70k(X_train_2k, X_train_70k):
 
     # tsne
